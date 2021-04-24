@@ -1,7 +1,7 @@
 # calculator
 This is a simple calculator made with pure html , css , javascript
-**`Documentation`** |
-------------------- |
+# Documentation 
+
 [Calculator](https://github.com/Shahid-coder/calculator) is an end-to-end open source calculator 
 for immediately calculating on the web browser . It is a comprehensive, flexible calculator 
 that lets you calculate day and night.
