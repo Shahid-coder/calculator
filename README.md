@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 This is a simple calculator made with pure html , css , javascript
 # Documentation 
 
