@@ -10,7 +10,7 @@ Calculator was originally developed by shahid
 
 ## How to use:
 This calculator is available on [github pages](https://shahid-coder.github.io/calculator/)
-```
+
 ## Contribution guidelines
 If you want to contribute to calculator, be sure to review the
 [contribution guidelines](CONTRIBUTING.md).
