@@ -1,5 +1,10 @@
 # Calculator
 This is a simple calculator made with pure html , css , javascript
+
+[![Language: python](https://img.shields.io/github/languages/top/shahid-coder/Calculator)](https://shahid-coder.github.io/calculator/)
+[![Apache 2.0 License](https://img.shields.io/github/license/shahid-coder/Calculator)](https://github.com/shahid-coder/Calculator/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/shahid-coder/Calculator)](https://github.com/shahid-coder/Calculator/graphs/contributors)
+
 # Documentation 
 
 [Calculator](https://github.com/Shahid-coder/calculator) is an end-to-end open source calculator 
